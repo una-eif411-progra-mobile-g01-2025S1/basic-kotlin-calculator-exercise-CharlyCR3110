@@ -180,3 +180,6 @@ replay_pid*
 # End of https://www.toptal.com/developers/gitignore/api/intellij,android,kotlin
 
 *.DS_Store
+
+# Ignore bin (not sure if necessary)
+bin/*
